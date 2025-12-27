@@ -8,3 +8,4 @@
 8. [lazyvim](https://www.lazyvim.org/installation)
 9. [Firacode Nerd Font](https://www.nerdfonts.com/font-downloads)
 10. LazyExtra - Copilot
+11. curl https://raw.githubusercontent.com/Y0rFa1se/DOTFILES/main/macos/.zshrc
