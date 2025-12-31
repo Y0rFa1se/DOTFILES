@@ -9,3 +9,5 @@
 9. [Firacode Nerd Font](https://www.nerdfonts.com/font-downloads)
 10. LazyExtra - Copilot
 11. curl https://raw.githubusercontent.com/Y0rFa1se/DOTFILES/main/macos/.zshrc
+12. warp
+13. orbstack
