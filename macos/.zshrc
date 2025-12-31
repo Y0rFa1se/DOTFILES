@@ -30,3 +30,7 @@ fi
 unset __conda_setup
 
 eval "$(zoxide init zsh)"
+
+for file in $HOME/aliases/*.sh; do
+    [ -r "$file" ] && source "$file"
+done
